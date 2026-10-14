@@ -1,5 +1,5 @@
 ---
-Data da atualização: 2026-10-13
+Data da atualização: 2026-10-14
 title: Teses Tributárias
 tags:
   - indice
@@ -53,6 +53,7 @@ Mapa das notas criadas a partir do documento *Projetos tributários*. Cada tese 
 | [[3.4 - Não incidência de ICMS sobre SVA em serviços de telecom IoT]] | icms, icms-comunicacao | Possível | — |
 | [[3.5 - Exclusão do IPI da base do ICMS-ST (MVA)]] | icms-st, ipi | Possível | — |
 | [[3.6 - Exclusão do PIS e da COFINS da base do ICMS]] | icms, pis, cofins | Remoto | Não informada |
+| [[3.7 - Exclusão do IBS e da CBS da base do ICMS]] | icms, ibs, cbs | Possível | — |
 
 ## ISS
 
